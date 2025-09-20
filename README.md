@@ -9,10 +9,16 @@ Write a Medium post describing an exploratory analysis of a question for which 1
 Your post should include the following:
 
 Describe a question you think can be answered from data, what specific stakeholder is asking this question, and what decision(s) the answer to this question will inform.
+
 Describe the data that could answer this question, what fields it contains, and why it is relevant to your question.
+
 Explain how you collected some subset of this data (e.g., libraries like requests, BeautifulSoup, tweepy, praw, etc. or from data archive). 
+
 Perform an exploratory data analysis that helps answer the question you posed. 
+
 Describe how you validated or made sure the input data and output were reasonable and correct. 
+
 Include figures or tables summarizing your findings. 
+
 Discuss the limitations of your analysis. What’s missing? How might it be biased?
 
