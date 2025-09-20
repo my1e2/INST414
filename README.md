@@ -2,7 +2,7 @@
 
 Module Assignment Descriptions:
 
-Link to Medium Article: https://medium.com/@mylesgs03/a-musical-rollercoaster-70-years-of-lyrical-and-thematic-excellence-c1d9aecb8af7
+Link to Medium Article for Module 1: https://medium.com/@mylesgs03/a-musical-rollercoaster-70-years-of-lyrical-and-thematic-excellence-c1d9aecb8af7
 
 Assignment Description: 
 
