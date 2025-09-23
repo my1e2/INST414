@@ -1,12 +1,11 @@
-# INST414 Coursework:
+# Musical Analysis:
 
-Module Assignment Descriptions:
 
-Link to Medium Article for Module 1: https://medium.com/@mylesgs03/a-musical-rollercoaster-70-years-of-lyrical-and-thematic-excellence-c1d9aecb8af7
+Link to Medium Article: https://medium.com/@mylesgs03/a-musical-rollercoaster-70-years-of-lyrical-and-thematic-excellence-c1d9aecb8af7
 
-Assignment Description: 
+Description: 
 
-Write a Medium post describing an exploratory analysis of a question for which 1) you have some expertise, and 2) you can describe who needs the answer to this question, and 3) you can explain how this answer enables a particular decision. This assignment will serve as a baseline for your work in this course, and at the end of the semester, you can review it so evaluate whether you would do things differently.
+Medium post describing an exploratory analysis of a question for which 1) you have some expertise, and 2) you can describe who needs the answer to this question, and 3) you can explain how this answer enables a particular decision. This assignment will serve as a baseline for your work in this course, and at the end of the semester, you can review it so evaluate whether you would do things differently.
 
 Your post should include the following:
 
